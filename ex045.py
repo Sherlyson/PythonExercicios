@@ -22,4 +22,4 @@ elif jog == 3:
     if pc == 1:
         print('DERROTA! Você escolheu tesoura e o computador pedra!')
     else:
-        print('VITÓRIA! Você escolheu tesoura e o computador papel!')
+        print('VITÓRIA! Você escolheu tesoura e o computador p  apel!')
